@@ -11,7 +11,7 @@
   external: false # set true if you using external link, see below
   
 - title: notes
-  url: https://notes.dinjik.me
+  url: https://notes.dinjik.tech
   external: true
 
 # Example:
