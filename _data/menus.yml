@@ -1,0 +1,20 @@
+- title: home
+  url: /
+  external: false
+
+- title: blog
+  url: /archive/
+  external: false
+
+- title: whoami
+  url: /whoami/
+  external: false # set true if you using external link, see below
+  
+- title: notes
+  url: https://notes.dinjik.me
+  external: true
+
+# Example:
+# - title: github
+#   url: https://github.com/
+#   external: true
