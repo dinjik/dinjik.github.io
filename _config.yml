@@ -11,13 +11,11 @@ mode: dark # default theme "dark" | "light"
 author:
   name: dinjik # author name
   bio: >- # tell to the world
-    I’m Elliot, a tech enthusiast from Toronto. My focus is on cybersecurity and networking.
-    You can find me on <a href="https://www.linkedin.com/in/ellioteren" target="_blank" rel="noopener">@Linkedin</a>.
+    I’m dinjik, a tech enthusiast from Toronto. My focus is on cybersecurity and networking.
+    You can find me on <a href="https://www.youtube.com/@dinjik." target="_blank" rel="noopener">@YouTube</a>.
   username: elliot # general username
   github: dinjik # github username
-  twitter: ellioteren # twitter username
-  facebook: ellioteren # facebook username
-  email: ellioteren@outlook.com # email adress
+  email: dinjik@proton.me # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
