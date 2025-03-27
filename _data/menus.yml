@@ -12,7 +12,7 @@
   
 - title: notes
   url: https://notes.dinjik.tech
-  external: true
+  external: false
 
 # Example:
 # - title: github
