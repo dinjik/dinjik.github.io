@@ -9,6 +9,6 @@ Hello, I’m **dinjik**, a lifelong learner and technology enthusiast based in T
 
 I approach learning with a hands-on mindset, always looking for new challenges to tackle. Additionally, I like playing CTFs on HackTheBox & TryHackMe.
 
-This place serves as a personal space where I document my journey, share insights, and reflect on my ongoing growth in the field of tech.
+This place serves as personal space where I document my journey, share insights, and reflect on my ongoing growth in the field of tech.
 
 If you have any questions or would like to connect, feel free to reach out.
